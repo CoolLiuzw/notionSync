@@ -47,7 +47,7 @@ GLOBAL OPTIONS:
 
 
 
-- 编译完使用命令行运维
+- 编译完使用命令行运行
 
 ```bash
 notionSync --notionSecret secret_xxxxxxxxxxx --notionDatabaseID xxxxxxxxx --todoClientID xxxxx --todoClientSecret xxxxxxxx
